@@ -21,7 +21,7 @@
   <h3 align="center">mnface.com-front-end</h3>
 
   <p align="center">
-    Trying to Javascript + API Front end html project!
+    Trying to Javascript + API Front-end html project!
     <br />
     <a href="https://github.com/tuvshinorg/mnface.com-front-end"><strong>Explore the docs »</strong></a>
     <br />
