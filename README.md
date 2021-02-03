@@ -1,16 +1,10 @@
 # mnface.com-front-end
-mnface.com front-end
 
 
 
 <!-- PROJECT SHIELDS -->
-<a href="https://github.com/tuvshinorg/mnface.com-front-end" alt="Contributors"><img src="https://img.shields.io/github/contributors/badges/shields" /></a>
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<a href="https://github.com/tuvshinorg/mnface.com-front-end" alt="Contributors"><img src="https://img.shields.io/badge/build-aplha-red" /></a>
+<a href="https://github.com/tuvshinorg/mnface.com-front-end" alt="Contributors"><img src="https://img.shields.io/badge/build-aplha-red" /></a>
 
 
 
