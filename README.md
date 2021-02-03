@@ -16,7 +16,7 @@ mnface.com front-end
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/tuvshinorg/mnface.com-front-end">
     <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
