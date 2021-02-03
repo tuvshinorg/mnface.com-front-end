@@ -19,7 +19,7 @@
   <h3 align="center">mnface.com-front-end</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Trying to Javascript + API Front end html project!
     <br />
     <a href="https://github.com/tuvshinorg/mnface.com-front-end"><strong>Explore the docs »</strong></a>
     <br />
@@ -158,9 +158,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Tuvshin - [@tuvshinorg](https://twitter.com/tuvshinorg) - tuvshin.org@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/tuvshinorg/mnface.com-front-end](https://github.com/tuvshinorg/mnface.com-front-end)
 
 
 
