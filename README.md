@@ -4,6 +4,9 @@
 
 <!-- PROJECT SHIELDS -->
 <a href="https://github.com/tuvshinorg/mnface.com-front-end" alt="Contributors"><img src="https://img.shields.io/badge/build-aplha-red" /></a>
+<a href="https://github.com/tuvshinorg/mnface.com-front-end" alt="Contributors"><img src="https://img.shields.io/badge/license-MIT-green" /></a>
+<a href="https://github.com/tuvshinorg/mnface.com-front-end" alt="Contributors"><img src="https://img.shields.io/badge/build-aplha-red" /></a>
+<a href="https://github.com/tuvshinorg/mnface.com-front-end" alt="Contributors"><img src="https://img.shields.io/badge/build-aplha-red" /></a>
 <a href="https://github.com/tuvshinorg/mnface.com-front-end" alt="Contributors"><img src="https://img.shields.io/badge/build-aplha-red" /></a>
 
 
