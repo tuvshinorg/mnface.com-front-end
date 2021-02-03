@@ -25,14 +25,14 @@ mnface.com front-end
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/tuvshinorg/mnface.com-front-end"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/tuvshinorg/mnface.com-front-end">View Demo</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/tuvshinorg/mnface.com-front-end/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/tuvshinorg/mnface.com-front-end/issues">Request Feature</a>
   </p>
 </p>
 
